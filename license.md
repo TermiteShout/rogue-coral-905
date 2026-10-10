@@ -85,13 +85,14 @@ El botón verde en la sección Inicio rápido.
 
 *rogue-coral-905 · Actualizado 2026-10-09 · Compartido bajo licencia MIT*
 
-## Related topics
 
-- [free-game-booster-windows-11](https://github.com/topics/free-game-booster-windows-11)
-- [simple-driver-updater-2026](https://github.com/topics/simple-driver-updater-2026)
-- [github-driver-backup-tool-for-windows](https://github.com/topics/github-driver-backup-tool-for-windows)
-- [free-mod-manager-guide](https://github.com/topics/free-mod-manager-guide)
-- [simple-unlock-fps-cap-2026](https://github.com/topics/simple-unlock-fps-cap-2026)
-- [ultimate-debloat-windows-toolkit](https://github.com/topics/ultimate-debloat-windows-toolkit)
-- [one-click-battery-health-checker-open-source](https://github.com/topics/one-click-battery-health-checker-open-source)
-- [ultimate-benchmark-tool-free](https://github.com/topics/ultimate-benchmark-tool-free)
+## Browse topics
+
+- [free-mod-manager-guide](https://github.com/topics/free-mod-manager-guide) — setup help
+- [one-click-battery-health-checker-open-source](https://github.com/topics/one-click-battery-health-checker-open-source) — overview
+- [simple-driver-updater-2026](https://github.com/topics/simple-driver-updater-2026) — collection
+- [github-driver-backup-tool-for-windows](https://github.com/topics/github-driver-backup-tool-for-windows) — walkthrough
+- [ultimate-debloat-windows-toolkit](https://github.com/topics/ultimate-debloat-windows-toolkit) — overview
+- [free-game-booster-windows-11](https://github.com/topics/free-game-booster-windows-11) — walkthrough
+- [ultimate-benchmark-tool-free](https://github.com/topics/ultimate-benchmark-tool-free) — tips
+- [simple-unlock-fps-cap-2026](https://github.com/topics/simple-unlock-fps-cap-2026) — list
